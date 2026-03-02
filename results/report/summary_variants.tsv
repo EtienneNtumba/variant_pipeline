@@ -1,0 +1,11 @@
+CHROM	POS	ID	REF	ALT	QUAL	FILTER	TYPE	AC	AF	IMPACT	EFFECT	GENE	HGVS_C	HGVS_P
+chr1	12345	.	A	G	250	PASS	SNP	3	0.5	MODERATE	missense_variant	BRCA1	c.441T>C	p.Phe147Leu
+chr1	23456	.	C	T	180	PASS	SNP	2	0.33	LOW	synonymous_variant	TP53	c.672C>T	p.Asp224=
+chr1	34567	.	G	A	300	PASS	SNP	4	0.67	HIGH	stop_gained	PTEN	c.891G>A	p.Trp297*
+chr1	45678	.	AT	A	120	PASS	DEL	1	0.17	HIGH	frameshift_variant	KRAS	c.34_35delGT	p.Gly12ValfsTer2
+chr1	56789	.	T	C	220	PASS	SNP	2	0.33	MODIFIER	intron_variant	MYC	c.452+15T>C	
+chr1	67890	.	A	T	195	PASS	SNP	3	0.5	MODERATE	missense_variant	EGFR	c.2155G>A	p.Gly719Ser
+chr1	78901	.	C	G	280	PASS	SNP	2	0.33	MODIFIER	5_prime_UTR_variant	BRCA2	c.-26C>G	
+chr1	89012	.	G	C	310	PASS	SNP	5	0.83	MODERATE	missense_variant	BRCA1	c.1067A>C	p.Gln356Pro
+chr1	90123	.	A	C	160	PASS	SNP	1	0.17	LOW	splice_region_variant	TP53	c.672+5A>C	
+chr1	101234	.	T	G	240	PASS	SNP	3	0.5	MODERATE	missense_variant	PTEN	c.511T>G	p.Tyr171Asp
